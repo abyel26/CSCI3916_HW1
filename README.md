@@ -1,3 +1,2 @@
 # week3
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/25138e821f6d604cc372#?env%5BEnvironment1%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoiVHVyaW5nIiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJpZCIsInZhbHVlIjoiUW5VUEJBQUFRQkFKIiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJlY2hvX2JvZHkiLCJ2YWx1ZSI6ImhlbGxvIHdvcmxkIiwiZW5hYmxlZCI6dHJ1ZX1d)
